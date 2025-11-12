@@ -80,7 +80,7 @@ plt.show()
 
 
 ### Display the result of Hough transform
-<img width="195" height="237" alt="Screenshot 2025-11-12 102844" src="https://github.com/user-attachments/assets/742bc7aa-faf7-4d2c-a2bb-4ca186b9ddff" />
+<img width="300" height="337" alt="Screenshot 2025-11-12 104156" src="https://github.com/user-attachments/assets/863a64b4-be6a-44ec-84f0-0475e0ed523b" />
 
 ## Result:
 Thus, the image has been successfully converted.
